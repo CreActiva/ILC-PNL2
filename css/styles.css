@@ -1,0 +1,51 @@
+body{
+    background: #f0f3f5;
+    color: #fff;
+    text-align: justify;
+}
+.row > div {
+    background-color: #f2f2f2;
+    margin: 10px 0;
+}
+
+header,content, footer {
+    margin-bottom: 20px;
+}
+
+header, header > .col {
+    text-transform:uppercase;
+    background: #9aca40;
+    padding: 20px;
+}
+
+content {
+    
+}
+
+main {
+    background: #fff;
+    color:#424242;
+    padding:  20px;
+}
+
+aside {
+    background: #dee5e8;
+    padding: 60px 0;
+    color:#0d47a1;
+}
+
+.widgets {
+    background: #f2f2f2;
+    
+}
+
+.widgets > div {
+    background: #2196f3;
+    padding:20px;
+    text-align: center
+}
+
+footer , footer > .col{
+    background: #1e1e1e;
+    padding:10px;
+}
