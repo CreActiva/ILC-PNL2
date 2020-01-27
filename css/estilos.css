@@ -16,13 +16,13 @@ body {
 
 
 h1 {
-	color: #3241FF !important;
+	color: #017C9B !important;
 	font-size:34px !important;
 	font-family:'Poppins', sans-serif !important;
 }
 
 h2 {
-	color: #46a9cf !important;
+	color: #01A3B8 !important;
 	font-size:20px !important;
 	font-family: 'Poppins', sans-serif !important;
 }
@@ -149,7 +149,26 @@ li {
 
 #boton {
 	color: #ffffff;
-	background: #3241FF;
+  background: #c8943c;
+  border: none;
+}
+
+#cuadro1 {
+  background: #017C9B;
+}
+
+#cuadro2 {
+  background: #ffbe00;
+}
+
+#cuadro3 {
+  background: #01A3B8;
+}
+
+#newh1, #newh2 {
+  color: #ffffff !important;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 /*Estilos carousel arrechísimo*/
