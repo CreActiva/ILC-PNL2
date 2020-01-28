@@ -6,15 +6,6 @@ body {
 	overflow-x: hidden;
 }
 
-
-
-.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
-	border:
-}
-
-
-
-
 h1 {
 	color: #017C9B !important;
 	font-size:34px !important;
@@ -149,7 +140,7 @@ li {
 
 #boton {
 	color: #ffffff;
-  background: #c8943c;
+  background: #ffbe00;
   border: none;
 }
 
@@ -646,7 +637,7 @@ Main Components
 }
 @media (min-width: 992px) {
   #f1 {
-    background: url(../img/f12.png) no-repeat top right -10%,url(../img/f11.jpg) no-repeat top left;
+    background: url(../img/f12.jpg) no-repeat top right,url(../img/f11.jpg) no-repeat top left;
     background-size: contain;
   }
 
